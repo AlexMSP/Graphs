@@ -2,4 +2,4 @@
 
 DirectedGraph/
 UndirectedGraph/
-BinaryTree/
+BinaryTree

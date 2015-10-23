@@ -1,5 +1,5 @@
 # Graphs
 
-DirectedGraph
-UndirectedGraph
-BinaryTree
+DirectedGraph/
+UndirectedGraph/
+BinaryTree/

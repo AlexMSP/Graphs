@@ -1,6 +1,6 @@
-﻿using System;
+﻿using GraphTheory;
+using System;
 using System.Collections.Generic;
-using GraphTheory;
 
 namespace GraphLibrary
 {

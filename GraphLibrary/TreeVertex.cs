@@ -1,5 +1,5 @@
-﻿using System;
-using GraphLibrary;
+﻿using GraphLibrary;
+using System;
 
 namespace GraphTheory
 {

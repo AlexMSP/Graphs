@@ -1,6 +1,7 @@
 using System;
+using GraphTheory;
 
-namespace GraphTheory
+namespace GraphLibrary
 {
     public class UndirectedGraph<T> : Graph<T> where T : class, IComparable
     {

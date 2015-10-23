@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using GraphTheory;
 
-namespace GraphTheory
+namespace GraphLibrary
 {
     enum VertexState
     {

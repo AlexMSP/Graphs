@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GraphTheory
+namespace GraphLibrary
 {
     public class Edge<T> where T : class, IComparable
     {

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace GraphTheory
+namespace GraphLibrary
 {
     public class GraphVertex<T> : Vertex<T>
            where T : class, IComparable

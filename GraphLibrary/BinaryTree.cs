@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using GraphTheory;
 
-namespace GraphTheory
+namespace GraphLibrary
 {
     public class BinaryTree<T> where T : class, IComparable
     {

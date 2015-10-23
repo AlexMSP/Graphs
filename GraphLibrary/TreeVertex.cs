@@ -1,4 +1,5 @@
 ﻿using System;
+using GraphLibrary;
 
 namespace GraphTheory
 {

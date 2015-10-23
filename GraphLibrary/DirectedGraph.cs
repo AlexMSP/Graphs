@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 
-namespace GraphTheory
+namespace GraphLibrary
 {
     public class DirectedGraph<T> : Graph<T> where T : class, IComparable
     {

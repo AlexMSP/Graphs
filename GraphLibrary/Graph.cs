@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace GraphTheory
+namespace GraphLibrary
 {
     public abstract class Graph<T> where T : class, IComparable
     {
